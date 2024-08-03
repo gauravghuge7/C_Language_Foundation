@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/F data/C_language_foundation",
-      "program": "d:/F data/C_language_foundation/build/Debug/outDebug",
+      "cwd": "d:/F data/C_language_foundation/conditionals",
+      "program": "d:/F data/C_language_foundation/conditionals/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
