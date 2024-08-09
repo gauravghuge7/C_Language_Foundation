@@ -5,8 +5,6 @@
 
 void main() {
 
-   
-
 
    /* 
    
@@ -65,8 +63,7 @@ void main() {
       printf(" price is very small ");
    }
     
-    
-
+   
 
 }
 
