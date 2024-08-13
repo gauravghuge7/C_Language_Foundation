@@ -1,15 +1,17 @@
 #include<stdio.h>
 
 int main(){
-      int i=2;
-      do{
-      printf("%d\n",i);
-      i+=2;
+      for(int i=0;i<=10;i++){
+            for(int j=0;j<=10;j++){
+                  printf("%d ",j*i);
+            }
+            
+printf("\n");
 
 
 
+      }
 
-      }while(i<20);
 
 
 
