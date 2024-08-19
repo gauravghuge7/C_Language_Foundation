@@ -126,8 +126,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "f:/F data/C_language_foundation/day_8-loops",
-      "program": "f:/F data/C_language_foundation/day_8-loops/build/Debug/outDebug",
+      "cwd": "f:/F data/C_language_foundation/day_12_practice problems",
+      "program": "f:/F data/C_language_foundation/day_12_practice problems/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
