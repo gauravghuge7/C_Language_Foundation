@@ -5,11 +5,16 @@ int substraction(int a,int b){
    printf("%d",a-b);
 
    return a-b;
+
 }
 
 
  int main(){
-   substraction(5,3);
+   
+   int a=15;
+
+
+   substraction(10,3);
 
    return 0;
  }
