@@ -4,8 +4,9 @@
 
 
 
-void addition() {
+void addition(int a, int b) {
 
+   printf("%d", a + b);
 
 }
 
@@ -22,13 +23,21 @@ void aditya(int a) {
 
 void main() {
 
-   printf("%d", 17);
+   // printf("%d", 17);
 
-   aditya(15);   // function calling
+   // aditya(15);   // function calling
 
-   ruturaj(5,9);
+   // ruturaj(5,9);
 
-   
+   int a=18;
+   int b=18;
+
+   // addition(12, 34);  
+
+   addition(a, b);   // 36
+
+
+
 }
 
 
