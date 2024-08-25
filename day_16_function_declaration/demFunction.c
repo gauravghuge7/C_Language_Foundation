@@ -56,7 +56,7 @@ void main() {
  * 
  *    create a function that accept two numbers and print the multiplication 
  * 
- *    create a function that accept two numbers and print the substraction 
+ *    create a function that accept two numbers and print the subtraction 
  * 
  *    create a function that accept two numbers and print the division  
  * 
