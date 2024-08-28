@@ -1,0 +1,6 @@
+/* 
+
+   create a basic function that receive one number and print it
+
+
+*/
