@@ -11,7 +11,5 @@ void main() {
       printf(" n value is one");
 
    }
-  
-
 
 }
