@@ -33,4 +33,7 @@ void main() {
 
    printf("binary = %d\n", inverse);
 
+   
+
+
 }
