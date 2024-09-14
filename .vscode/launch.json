@@ -126,8 +126,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "f:/F data/C_language_foundation/day_12_practice problems",
-      "program": "f:/F data/C_language_foundation/day_12_practice problems/build/Debug/outDebug",
+      "cwd": "f:/F data/C_language_foundation/day_23_NumbserSystem",
+      "program": "f:/F data/C_language_foundation/day_23_NumbserSystem/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
