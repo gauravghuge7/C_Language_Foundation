@@ -59,4 +59,14 @@ void main() {
 
 
 
+   int gaurav = 10;
+   int gaurav2 = 20;
+   int gaurav_g = 23;
+   // int gaurav@ = 87;
+   // int 12gaurav = 12;
+
+   int gaurav_ghuge = 100;
+
+
+
 }
