@@ -19,4 +19,30 @@ int main() {
    }
 
 
+
+
+   if () {
+      
+   }
+
+   else  if() {
+
+   }
+
+   else {
+
+   }
+
+
+
+/* 
+
+   check notebook and compass price less than 100
+
+   check laptop price less than 20,000
+
+
+*/
+
+
 }
