@@ -1,16 +1,22 @@
 #include <stdio.h>
-
-
-int main() {
-
-
-   // i = i + 1    OR   i++   increment operator is used 
+// i = i + 1    OR   i++   increment operator is used 
    //                   ++i
 
    // i = i + 1    OR   i--   decrement operator is used 
    //                   --i
 
-   for (int i = 1; i <= 5; i = i + 1) {
+   // int i=39;
 
+
+int main() {
+
+   int i = 89;
+
+   for (int i = 1; i >= 1; i = i + 1) {
+
+      printf("%d ", i);
+      
    }
+
+   printf("%d ", i);
 }
